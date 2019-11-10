@@ -48,7 +48,7 @@ nav ul li a:hover{
 
 header{
 	width: 100%;
-	padding: 200px 0;
+	padding: 200px 0 150px 0;
 	background: rgba(114, 255, 0,.6);
 	text-align: center;
 }
@@ -67,14 +67,10 @@ header a li:hover{
 }
 
 header a{
-	color: rgba(255,0,142,1);
-	font-size: 15px;
-	text-transform: uppercase;
-}
-
-header a:first-of-type{
 	color: #fff;
+	font-size: 15px;
 	text-decoration: none;
+	text-transform: uppercase;
 }
 
 /* MAIN */
